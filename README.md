@@ -1873,10 +1873,6 @@ the string can be plain strings or formatted as follows to include details about
 | value | string | 
 
 **Example**  
-```js
-const simpleRow = 'yoursimplerow';
-const rowDoubleSize = 'yourtextgoeshere||1'; // Double size
-const barCode = 'thecode|11 //barcode types between 1 to 11
-```
+```jsconst simpleRow = 'yoursimplerow';const rowDoubleSize = 'yourtextgoeshere||1'; // Double sizeconst barCode = 'thecode|11 //barcode types between 1 to 11```
 
 * * *
